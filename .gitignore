@@ -1,0 +1,10 @@
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.webp
+
+mask_rcnn/logs/*
+mask_rcnn/models/checkpoints/*

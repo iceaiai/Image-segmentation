@@ -1,0 +1,4898 @@
+[
+  {
+    "image_id": 0,
+    "filename": "97e645b56e.png",
+    "annotation_dims": [
+      521,
+      512
+    ],
+    "actual_dims": [
+      512,
+      521
+    ]
+  },
+  {
+    "image_id": 1,
+    "filename": "d5e8abb61d.png",
+    "annotation_dims": [
+      512,
+      775
+    ],
+    "actual_dims": [
+      775,
+      512
+    ]
+  },
+  {
+    "image_id": 2,
+    "filename": "434e287439.png",
+    "annotation_dims": [
+      512,
+      604
+    ],
+    "actual_dims": [
+      604,
+      512
+    ]
+  },
+  {
+    "image_id": 3,
+    "filename": "2e4a3ab627.png",
+    "annotation_dims": [
+      512,
+      774
+    ],
+    "actual_dims": [
+      774,
+      512
+    ]
+  },
+  {
+    "image_id": 4,
+    "filename": "ce2f96aae1.png",
+    "annotation_dims": [
+      512,
+      740
+    ],
+    "actual_dims": [
+      740,
+      512
+    ]
+  },
+  {
+    "image_id": 5,
+    "filename": "47286679c2.png",
+    "annotation_dims": [
+      512,
+      686
+    ],
+    "actual_dims": [
+      686,
+      512
+    ]
+  },
+  {
+    "image_id": 6,
+    "filename": "bcab6454cf.png",
+    "annotation_dims": [
+      512,
+      748
+    ],
+    "actual_dims": [
+      748,
+      512
+    ]
+  },
+  {
+    "image_id": 7,
+    "filename": "03cd0b2741.png",
+    "annotation_dims": [
+      512,
+      514
+    ],
+    "actual_dims": [
+      514,
+      512
+    ]
+  },
+  {
+    "image_id": 8,
+    "filename": "33f8a59619.png",
+    "annotation_dims": [
+      512,
+      559
+    ],
+    "actual_dims": [
+      559,
+      512
+    ]
+  },
+  {
+    "image_id": 9,
+    "filename": "f485e2051b.png",
+    "annotation_dims": [
+      512,
+      515
+    ],
+    "actual_dims": [
+      515,
+      512
+    ]
+  },
+  {
+    "image_id": 10,
+    "filename": "b9deddff33.png",
+    "annotation_dims": [
+      515,
+      512
+    ],
+    "actual_dims": [
+      512,
+      515
+    ]
+  },
+  {
+    "image_id": 11,
+    "filename": "738c326d73.png",
+    "annotation_dims": [
+      512,
+      514
+    ],
+    "actual_dims": [
+      514,
+      512
+    ]
+  },
+  {
+    "image_id": 12,
+    "filename": "f84ce9e349.png",
+    "annotation_dims": [
+      512,
+      519
+    ],
+    "actual_dims": [
+      519,
+      512
+    ]
+  },
+  {
+    "image_id": 13,
+    "filename": "31a727b95d.png",
+    "annotation_dims": [
+      512,
+      631
+    ],
+    "actual_dims": [
+      631,
+      512
+    ]
+  },
+  {
+    "image_id": 14,
+    "filename": "dedf11eb6c.png",
+    "annotation_dims": [
+      512,
+      696
+    ],
+    "actual_dims": [
+      696,
+      512
+    ]
+  },
+  {
+    "image_id": 15,
+    "filename": "802e607c7c.png",
+    "annotation_dims": [
+      512,
+      514
+    ],
+    "actual_dims": [
+      514,
+      512
+    ]
+  },
+  {
+    "image_id": 16,
+    "filename": "25af264996.png",
+    "annotation_dims": [
+      512,
+      575
+    ],
+    "actual_dims": [
+      575,
+      512
+    ]
+  },
+  {
+    "image_id": 17,
+    "filename": "a1315df346.png",
+    "annotation_dims": [
+      512,
+      515
+    ],
+    "actual_dims": [
+      515,
+      512
+    ]
+  },
+  {
+    "image_id": 18,
+    "filename": "bf57480a38.png",
+    "annotation_dims": [
+      550,
+      512
+    ],
+    "actual_dims": [
+      512,
+      550
+    ]
+  },
+  {
+    "image_id": 19,
+    "filename": "fcebbb1fd9.png",
+    "annotation_dims": [
+      570,
+      512
+    ],
+    "actual_dims": [
+      512,
+      570
+    ]
+  },
+  {
+    "image_id": 20,
+    "filename": "89e4044418.png",
+    "annotation_dims": [
+      512,
+      550
+    ],
+    "actual_dims": [
+      550,
+      512
+    ]
+  },
+  {
+    "image_id": 21,
+    "filename": "b19f6f3309.png",
+    "annotation_dims": [
+      512,
+      620
+    ],
+    "actual_dims": [
+      620,
+      512
+    ]
+  },
+  {
+    "image_id": 22,
+    "filename": "f98c5fb82a.png",
+    "annotation_dims": [
+      528,
+      512
+    ],
+    "actual_dims": [
+      512,
+      528
+    ]
+  },
+  {
+    "image_id": 23,
+    "filename": "a630b192d4.png",
+    "annotation_dims": [
+      512,
+      688
+    ],
+    "actual_dims": [
+      688,
+      512
+    ]
+  },
+  {
+    "image_id": 24,
+    "filename": "2ee0518d7a.png",
+    "annotation_dims": [
+      512,
+      630
+    ],
+    "actual_dims": [
+      630,
+      512
+    ]
+  },
+  {
+    "image_id": 25,
+    "filename": "a2883fc6eb.png",
+    "annotation_dims": [
+      512,
+      618
+    ],
+    "actual_dims": [
+      618,
+      512
+    ]
+  },
+  {
+    "image_id": 26,
+    "filename": "441414704c.png",
+    "annotation_dims": [
+      513,
+      512
+    ],
+    "actual_dims": [
+      512,
+      513
+    ]
+  },
+  {
+    "image_id": 27,
+    "filename": "6a291d0bb4.png",
+    "annotation_dims": [
+      512,
+      572
+    ],
+    "actual_dims": [
+      572,
+      512
+    ]
+  },
+  {
+    "image_id": 28,
+    "filename": "41bb4d19a4.png",
+    "annotation_dims": [
+      512,
+      641
+    ],
+    "actual_dims": [
+      641,
+      512
+    ]
+  },
+  {
+    "image_id": 29,
+    "filename": "af124a45d9.png",
+    "annotation_dims": [
+      512,
+      724
+    ],
+    "actual_dims": [
+      724,
+      512
+    ]
+  },
+  {
+    "image_id": 30,
+    "filename": "48f3a148f6.png",
+    "annotation_dims": [
+      512,
+      779
+    ],
+    "actual_dims": [
+      779,
+      512
+    ]
+  },
+  {
+    "image_id": 31,
+    "filename": "b78f5fdc22.png",
+    "annotation_dims": [
+      512,
+      619
+    ],
+    "actual_dims": [
+      619,
+      512
+    ]
+  },
+  {
+    "image_id": 32,
+    "filename": "fe9791f122.png",
+    "annotation_dims": [
+      512,
+      673
+    ],
+    "actual_dims": [
+      673,
+      512
+    ]
+  },
+  {
+    "image_id": 33,
+    "filename": "f7f7093f0f.png",
+    "annotation_dims": [
+      512,
+      685
+    ],
+    "actual_dims": [
+      685,
+      512
+    ]
+  },
+  {
+    "image_id": 35,
+    "filename": "cf703078f2.png",
+    "annotation_dims": [
+      512,
+      942
+    ],
+    "actual_dims": [
+      942,
+      512
+    ]
+  },
+  {
+    "image_id": 36,
+    "filename": "1bf56ce626.png",
+    "annotation_dims": [
+      512,
+      681
+    ],
+    "actual_dims": [
+      681,
+      512
+    ]
+  },
+  {
+    "image_id": 37,
+    "filename": "c36b04376a.png",
+    "annotation_dims": [
+      512,
+      555
+    ],
+    "actual_dims": [
+      555,
+      512
+    ]
+  },
+  {
+    "image_id": 39,
+    "filename": "f068954421.png",
+    "annotation_dims": [
+      512,
+      634
+    ],
+    "actual_dims": [
+      634,
+      512
+    ]
+  },
+  {
+    "image_id": 40,
+    "filename": "8e68b05e0e.png",
+    "annotation_dims": [
+      512,
+      620
+    ],
+    "actual_dims": [
+      620,
+      512
+    ]
+  },
+  {
+    "image_id": 41,
+    "filename": "e493a405ad.png",
+    "annotation_dims": [
+      512,
+      514
+    ],
+    "actual_dims": [
+      514,
+      512
+    ]
+  },
+  {
+    "image_id": 42,
+    "filename": "f28b702df5.png",
+    "annotation_dims": [
+      512,
+      715
+    ],
+    "actual_dims": [
+      715,
+      512
+    ]
+  },
+  {
+    "image_id": 43,
+    "filename": "5fc8c5b53c.png",
+    "annotation_dims": [
+      512,
+      546
+    ],
+    "actual_dims": [
+      546,
+      512
+    ]
+  },
+  {
+    "image_id": 44,
+    "filename": "f447a36b0b.png",
+    "annotation_dims": [
+      512,
+      658
+    ],
+    "actual_dims": [
+      658,
+      512
+    ]
+  },
+  {
+    "image_id": 45,
+    "filename": "ec62d76c0a.png",
+    "annotation_dims": [
+      512,
+      514
+    ],
+    "actual_dims": [
+      514,
+      512
+    ]
+  },
+  {
+    "image_id": 46,
+    "filename": "78c63579ba.png",
+    "annotation_dims": [
+      512,
+      593
+    ],
+    "actual_dims": [
+      593,
+      512
+    ]
+  },
+  {
+    "image_id": 47,
+    "filename": "0a55e7c93f.png",
+    "annotation_dims": [
+      512,
+      683
+    ],
+    "actual_dims": [
+      683,
+      512
+    ]
+  },
+  {
+    "image_id": 48,
+    "filename": "dc25ff5266.png",
+    "annotation_dims": [
+      512,
+      647
+    ],
+    "actual_dims": [
+      647,
+      512
+    ]
+  },
+  {
+    "image_id": 49,
+    "filename": "a492171fa8.png",
+    "annotation_dims": [
+      529,
+      512
+    ],
+    "actual_dims": [
+      512,
+      529
+    ]
+  },
+  {
+    "image_id": 51,
+    "filename": "85dedcfd30.png",
+    "annotation_dims": [
+      512,
+      514
+    ],
+    "actual_dims": [
+      514,
+      512
+    ]
+  },
+  {
+    "image_id": 52,
+    "filename": "891f96f60d.png",
+    "annotation_dims": [
+      512,
+      777
+    ],
+    "actual_dims": [
+      777,
+      512
+    ]
+  },
+  {
+    "image_id": 53,
+    "filename": "4bafa92eec.png",
+    "annotation_dims": [
+      512,
+      552
+    ],
+    "actual_dims": [
+      552,
+      512
+    ]
+  },
+  {
+    "image_id": 54,
+    "filename": "d83980d44e.png",
+    "annotation_dims": [
+      512,
+      668
+    ],
+    "actual_dims": [
+      668,
+      512
+    ]
+  },
+  {
+    "image_id": 55,
+    "filename": "e1adc2ba25.png",
+    "annotation_dims": [
+      512,
+      701
+    ],
+    "actual_dims": [
+      701,
+      512
+    ]
+  },
+  {
+    "image_id": 56,
+    "filename": "e3a800b533.png",
+    "annotation_dims": [
+      513,
+      512
+    ],
+    "actual_dims": [
+      512,
+      513
+    ]
+  },
+  {
+    "image_id": 57,
+    "filename": "9246d32fe0.png",
+    "annotation_dims": [
+      512,
+      766
+    ],
+    "actual_dims": [
+      766,
+      512
+    ]
+  },
+  {
+    "image_id": 58,
+    "filename": "3537f150cd.png",
+    "annotation_dims": [
+      512,
+      583
+    ],
+    "actual_dims": [
+      583,
+      512
+    ]
+  },
+  {
+    "image_id": 59,
+    "filename": "2556313831.png",
+    "annotation_dims": [
+      512,
+      701
+    ],
+    "actual_dims": [
+      701,
+      512
+    ]
+  },
+  {
+    "image_id": 61,
+    "filename": "f24b8804c9.png",
+    "annotation_dims": [
+      514,
+      512
+    ],
+    "actual_dims": [
+      512,
+      514
+    ]
+  },
+  {
+    "image_id": 62,
+    "filename": "1bed563906.png",
+    "annotation_dims": [
+      512,
+      517
+    ],
+    "actual_dims": [
+      517,
+      512
+    ]
+  },
+  {
+    "image_id": 63,
+    "filename": "b452204939.png",
+    "annotation_dims": [
+      512,
+      558
+    ],
+    "actual_dims": [
+      558,
+      512
+    ]
+  },
+  {
+    "image_id": 64,
+    "filename": "5c244a9ea8.png",
+    "annotation_dims": [
+      512,
+      669
+    ],
+    "actual_dims": [
+      669,
+      512
+    ]
+  },
+  {
+    "image_id": 65,
+    "filename": "d28fb3e471.png",
+    "annotation_dims": [
+      512,
+      740
+    ],
+    "actual_dims": [
+      740,
+      512
+    ]
+  },
+  {
+    "image_id": 66,
+    "filename": "70345dfad1.png",
+    "annotation_dims": [
+      512,
+      759
+    ],
+    "actual_dims": [
+      759,
+      512
+    ]
+  },
+  {
+    "image_id": 67,
+    "filename": "ca780314cd.png",
+    "annotation_dims": [
+      512,
+      732
+    ],
+    "actual_dims": [
+      732,
+      512
+    ]
+  },
+  {
+    "image_id": 68,
+    "filename": "c88cae3e95.png",
+    "annotation_dims": [
+      512,
+      628
+    ],
+    "actual_dims": [
+      628,
+      512
+    ]
+  },
+  {
+    "image_id": 69,
+    "filename": "6fe6ed78ab.png",
+    "annotation_dims": [
+      512,
+      560
+    ],
+    "actual_dims": [
+      560,
+      512
+    ]
+  },
+  {
+    "image_id": 70,
+    "filename": "2fb8fe344c.png",
+    "annotation_dims": [
+      517,
+      512
+    ],
+    "actual_dims": [
+      512,
+      517
+    ]
+  },
+  {
+    "image_id": 71,
+    "filename": "aa968ec1b2.png",
+    "annotation_dims": [
+      512,
+      741
+    ],
+    "actual_dims": [
+      741,
+      512
+    ]
+  },
+  {
+    "image_id": 72,
+    "filename": "410284d28b.png",
+    "annotation_dims": [
+      512,
+      657
+    ],
+    "actual_dims": [
+      657,
+      512
+    ]
+  },
+  {
+    "image_id": 73,
+    "filename": "7fabcfe23f.png",
+    "annotation_dims": [
+      512,
+      634
+    ],
+    "actual_dims": [
+      634,
+      512
+    ]
+  },
+  {
+    "image_id": 74,
+    "filename": "404b0836f1.png",
+    "annotation_dims": [
+      512,
+      515
+    ],
+    "actual_dims": [
+      515,
+      512
+    ]
+  },
+  {
+    "image_id": 75,
+    "filename": "af674cfe7e.png",
+    "annotation_dims": [
+      512,
+      688
+    ],
+    "actual_dims": [
+      688,
+      512
+    ]
+  },
+  {
+    "image_id": 76,
+    "filename": "4e13b5c5f8.png",
+    "annotation_dims": [
+      512,
+      557
+    ],
+    "actual_dims": [
+      557,
+      512
+    ]
+  },
+  {
+    "image_id": 78,
+    "filename": "8d7fc4c578.png",
+    "annotation_dims": [
+      512,
+      662
+    ],
+    "actual_dims": [
+      662,
+      512
+    ]
+  },
+  {
+    "image_id": 79,
+    "filename": "6c52a10c75.png",
+    "annotation_dims": [
+      512,
+      516
+    ],
+    "actual_dims": [
+      516,
+      512
+    ]
+  },
+  {
+    "image_id": 80,
+    "filename": "f7f9125fb0.png",
+    "annotation_dims": [
+      512,
+      557
+    ],
+    "actual_dims": [
+      557,
+      512
+    ]
+  },
+  {
+    "image_id": 81,
+    "filename": "e4268d7502.png",
+    "annotation_dims": [
+      546,
+      512
+    ],
+    "actual_dims": [
+      512,
+      546
+    ]
+  },
+  {
+    "image_id": 82,
+    "filename": "6169a602a0.png",
+    "annotation_dims": [
+      512,
+      583
+    ],
+    "actual_dims": [
+      583,
+      512
+    ]
+  },
+  {
+    "image_id": 83,
+    "filename": "a66c75354a.png",
+    "annotation_dims": [
+      512,
+      689
+    ],
+    "actual_dims": [
+      689,
+      512
+    ]
+  },
+  {
+    "image_id": 84,
+    "filename": "f5235de51f.png",
+    "annotation_dims": [
+      512,
+      750
+    ],
+    "actual_dims": [
+      750,
+      512
+    ]
+  },
+  {
+    "image_id": 85,
+    "filename": "c1bfc4308b.png",
+    "annotation_dims": [
+      512,
+      611
+    ],
+    "actual_dims": [
+      611,
+      512
+    ]
+  },
+  {
+    "image_id": 86,
+    "filename": "f29baed81b.png",
+    "annotation_dims": [
+      512,
+      743
+    ],
+    "actual_dims": [
+      743,
+      512
+    ]
+  },
+  {
+    "image_id": 87,
+    "filename": "173c98ef82.png",
+    "annotation_dims": [
+      512,
+      668
+    ],
+    "actual_dims": [
+      668,
+      512
+    ]
+  },
+  {
+    "image_id": 88,
+    "filename": "22c776b059.png",
+    "annotation_dims": [
+      512,
+      734
+    ],
+    "actual_dims": [
+      734,
+      512
+    ]
+  },
+  {
+    "image_id": 89,
+    "filename": "6752c27137.png",
+    "annotation_dims": [
+      512,
+      544
+    ],
+    "actual_dims": [
+      544,
+      512
+    ]
+  },
+  {
+    "image_id": 90,
+    "filename": "fe76e94abf.png",
+    "annotation_dims": [
+      512,
+      579
+    ],
+    "actual_dims": [
+      579,
+      512
+    ]
+  },
+  {
+    "image_id": 91,
+    "filename": "96c772f28b.png",
+    "annotation_dims": [
+      512,
+      683
+    ],
+    "actual_dims": [
+      683,
+      512
+    ]
+  },
+  {
+    "image_id": 92,
+    "filename": "1736c60650.png",
+    "annotation_dims": [
+      512,
+      615
+    ],
+    "actual_dims": [
+      615,
+      512
+    ]
+  },
+  {
+    "image_id": 93,
+    "filename": "b8e9061c90.png",
+    "annotation_dims": [
+      512,
+      683
+    ],
+    "actual_dims": [
+      683,
+      512
+    ]
+  },
+  {
+    "image_id": 94,
+    "filename": "d6613c4ec5.png",
+    "annotation_dims": [
+      512,
+      616
+    ],
+    "actual_dims": [
+      616,
+      512
+    ]
+  },
+  {
+    "image_id": 95,
+    "filename": "cd22803960.png",
+    "annotation_dims": [
+      512,
+      626
+    ],
+    "actual_dims": [
+      626,
+      512
+    ]
+  },
+  {
+    "image_id": 96,
+    "filename": "bc5529f7ca.png",
+    "annotation_dims": [
+      512,
+      682
+    ],
+    "actual_dims": [
+      682,
+      512
+    ]
+  },
+  {
+    "image_id": 97,
+    "filename": "4b07dbd803.png",
+    "annotation_dims": [
+      512,
+      772
+    ],
+    "actual_dims": [
+      772,
+      512
+    ]
+  },
+  {
+    "image_id": 98,
+    "filename": "ce39bb3c03.png",
+    "annotation_dims": [
+      512,
+      724
+    ],
+    "actual_dims": [
+      724,
+      512
+    ]
+  },
+  {
+    "image_id": 99,
+    "filename": "f3b36fb2ab.png",
+    "annotation_dims": [
+      513,
+      512
+    ],
+    "actual_dims": [
+      512,
+      513
+    ]
+  },
+  {
+    "image_id": 100,
+    "filename": "03a1d18cc6.png",
+    "annotation_dims": [
+      512,
+      513
+    ],
+    "actual_dims": [
+      513,
+      512
+    ]
+  },
+  {
+    "image_id": 101,
+    "filename": "62a54f335d.png",
+    "annotation_dims": [
+      512,
+      730
+    ],
+    "actual_dims": [
+      730,
+      512
+    ]
+  },
+  {
+    "image_id": 102,
+    "filename": "0fa38de2c7.png",
+    "annotation_dims": [
+      513,
+      512
+    ],
+    "actual_dims": [
+      512,
+      513
+    ]
+  },
+  {
+    "image_id": 103,
+    "filename": "fe83ead30b.png",
+    "annotation_dims": [
+      512,
+      598
+    ],
+    "actual_dims": [
+      598,
+      512
+    ]
+  },
+  {
+    "image_id": 104,
+    "filename": "2897b777fe.png",
+    "annotation_dims": [
+      512,
+      626
+    ],
+    "actual_dims": [
+      626,
+      512
+    ]
+  },
+  {
+    "image_id": 105,
+    "filename": "b4ab2ea927.png",
+    "annotation_dims": [
+      512,
+      699
+    ],
+    "actual_dims": [
+      699,
+      512
+    ]
+  },
+  {
+    "image_id": 106,
+    "filename": "3a9246e0ee.png",
+    "annotation_dims": [
+      512,
+      772
+    ],
+    "actual_dims": [
+      772,
+      512
+    ]
+  },
+  {
+    "image_id": 107,
+    "filename": "1cb46bfdd5.png",
+    "annotation_dims": [
+      512,
+      750
+    ],
+    "actual_dims": [
+      750,
+      512
+    ]
+  },
+  {
+    "image_id": 108,
+    "filename": "4628753cd8.png",
+    "annotation_dims": [
+      512,
+      671
+    ],
+    "actual_dims": [
+      671,
+      512
+    ]
+  },
+  {
+    "image_id": 109,
+    "filename": "724248a877.png",
+    "annotation_dims": [
+      512,
+      659
+    ],
+    "actual_dims": [
+      659,
+      512
+    ]
+  },
+  {
+    "image_id": 110,
+    "filename": "b0e3041a0d.png",
+    "annotation_dims": [
+      512,
+      740
+    ],
+    "actual_dims": [
+      740,
+      512
+    ]
+  },
+  {
+    "image_id": 111,
+    "filename": "b23c478d84.png",
+    "annotation_dims": [
+      512,
+      533
+    ],
+    "actual_dims": [
+      533,
+      512
+    ]
+  },
+  {
+    "image_id": 112,
+    "filename": "e49e69fd61.png",
+    "annotation_dims": [
+      512,
+      556
+    ],
+    "actual_dims": [
+      556,
+      512
+    ]
+  },
+  {
+    "image_id": 113,
+    "filename": "bb3d8c922b.png",
+    "annotation_dims": [
+      512,
+      744
+    ],
+    "actual_dims": [
+      744,
+      512
+    ]
+  },
+  {
+    "image_id": 114,
+    "filename": "6643f01cf4.png",
+    "annotation_dims": [
+      512,
+      515
+    ],
+    "actual_dims": [
+      515,
+      512
+    ]
+  },
+  {
+    "image_id": 115,
+    "filename": "986f86c3b5.png",
+    "annotation_dims": [
+      512,
+      513
+    ],
+    "actual_dims": [
+      513,
+      512
+    ]
+  },
+  {
+    "image_id": 116,
+    "filename": "ddffc403e3.png",
+    "annotation_dims": [
+      512,
+      648
+    ],
+    "actual_dims": [
+      648,
+      512
+    ]
+  },
+  {
+    "image_id": 117,
+    "filename": "95e201a1fe.png",
+    "annotation_dims": [
+      512,
+      522
+    ],
+    "actual_dims": [
+      522,
+      512
+    ]
+  },
+  {
+    "image_id": 118,
+    "filename": "391ef00939.png",
+    "annotation_dims": [
+      513,
+      512
+    ],
+    "actual_dims": [
+      512,
+      513
+    ]
+  },
+  {
+    "image_id": 119,
+    "filename": "065d8e352c.png",
+    "annotation_dims": [
+      512,
+      525
+    ],
+    "actual_dims": [
+      525,
+      512
+    ]
+  },
+  {
+    "image_id": 120,
+    "filename": "c0fcfec15c.png",
+    "annotation_dims": [
+      512,
+      625
+    ],
+    "actual_dims": [
+      625,
+      512
+    ]
+  },
+  {
+    "image_id": 121,
+    "filename": "c355821ea6.png",
+    "annotation_dims": [
+      512,
+      836
+    ],
+    "actual_dims": [
+      836,
+      512
+    ]
+  },
+  {
+    "image_id": 122,
+    "filename": "93ed483d79.png",
+    "annotation_dims": [
+      589,
+      512
+    ],
+    "actual_dims": [
+      512,
+      589
+    ]
+  },
+  {
+    "image_id": 123,
+    "filename": "a4b639ab1a.png",
+    "annotation_dims": [
+      512,
+      773
+    ],
+    "actual_dims": [
+      773,
+      512
+    ]
+  },
+  {
+    "image_id": 124,
+    "filename": "b2f6f1bbf9.png",
+    "annotation_dims": [
+      512,
+      574
+    ],
+    "actual_dims": [
+      574,
+      512
+    ]
+  },
+  {
+    "image_id": 125,
+    "filename": "ae001af29f.png",
+    "annotation_dims": [
+      512,
+      784
+    ],
+    "actual_dims": [
+      784,
+      512
+    ]
+  },
+  {
+    "image_id": 126,
+    "filename": "78b42bc5e8.png",
+    "annotation_dims": [
+      512,
+      636
+    ],
+    "actual_dims": [
+      636,
+      512
+    ]
+  },
+  {
+    "image_id": 129,
+    "filename": "82e8007547.png",
+    "annotation_dims": [
+      512,
+      534
+    ],
+    "actual_dims": [
+      534,
+      512
+    ]
+  },
+  {
+    "image_id": 130,
+    "filename": "245e1a4826.png",
+    "annotation_dims": [
+      512,
+      520
+    ],
+    "actual_dims": [
+      520,
+      512
+    ]
+  },
+  {
+    "image_id": 131,
+    "filename": "6db657d4f7.png",
+    "annotation_dims": [
+      512,
+      513
+    ],
+    "actual_dims": [
+      513,
+      512
+    ]
+  },
+  {
+    "image_id": 132,
+    "filename": "c83a6e91b0.png",
+    "annotation_dims": [
+      512,
+      697
+    ],
+    "actual_dims": [
+      697,
+      512
+    ]
+  },
+  {
+    "image_id": 133,
+    "filename": "e2d9d3d783.png",
+    "annotation_dims": [
+      512,
+      518
+    ],
+    "actual_dims": [
+      518,
+      512
+    ]
+  },
+  {
+    "image_id": 134,
+    "filename": "9c29ca7edf.png",
+    "annotation_dims": [
+      535,
+      512
+    ],
+    "actual_dims": [
+      512,
+      535
+    ]
+  },
+  {
+    "image_id": 135,
+    "filename": "1a29c5b84f.png",
+    "annotation_dims": [
+      536,
+      512
+    ],
+    "actual_dims": [
+      512,
+      536
+    ]
+  },
+  {
+    "image_id": 136,
+    "filename": "ee161d333c.png",
+    "annotation_dims": [
+      512,
+      568
+    ],
+    "actual_dims": [
+      568,
+      512
+    ]
+  },
+  {
+    "image_id": 137,
+    "filename": "3b18ef9b73.png",
+    "annotation_dims": [
+      515,
+      512
+    ],
+    "actual_dims": [
+      512,
+      515
+    ]
+  },
+  {
+    "image_id": 138,
+    "filename": "4d951b622f.png",
+    "annotation_dims": [
+      512,
+      768
+    ],
+    "actual_dims": [
+      768,
+      512
+    ]
+  },
+  {
+    "image_id": 139,
+    "filename": "9dc60257e5.png",
+    "annotation_dims": [
+      512,
+      683
+    ],
+    "actual_dims": [
+      683,
+      512
+    ]
+  },
+  {
+    "image_id": 140,
+    "filename": "736f1a3eb2.png",
+    "annotation_dims": [
+      512,
+      535
+    ],
+    "actual_dims": [
+      535,
+      512
+    ]
+  },
+  {
+    "image_id": 141,
+    "filename": "bfb2a25730.png",
+    "annotation_dims": [
+      512,
+      674
+    ],
+    "actual_dims": [
+      674,
+      512
+    ]
+  },
+  {
+    "image_id": 142,
+    "filename": "e211d9d7ac.png",
+    "annotation_dims": [
+      512,
+      772
+    ],
+    "actual_dims": [
+      772,
+      512
+    ]
+  },
+  {
+    "image_id": 143,
+    "filename": "23d581d8a9.png",
+    "annotation_dims": [
+      512,
+      517
+    ],
+    "actual_dims": [
+      517,
+      512
+    ]
+  },
+  {
+    "image_id": 144,
+    "filename": "535134e785.png",
+    "annotation_dims": [
+      514,
+      512
+    ],
+    "actual_dims": [
+      512,
+      514
+    ]
+  },
+  {
+    "image_id": 145,
+    "filename": "ae843e9fc0.png",
+    "annotation_dims": [
+      512,
+      816
+    ],
+    "actual_dims": [
+      816,
+      512
+    ]
+  },
+  {
+    "image_id": 146,
+    "filename": "f6e0ae6378.png",
+    "annotation_dims": [
+      512,
+      739
+    ],
+    "actual_dims": [
+      739,
+      512
+    ]
+  },
+  {
+    "image_id": 148,
+    "filename": "ce6d981687.png",
+    "annotation_dims": [
+      512,
+      766
+    ],
+    "actual_dims": [
+      766,
+      512
+    ]
+  },
+  {
+    "image_id": 149,
+    "filename": "30da4fa249.png",
+    "annotation_dims": [
+      512,
+      544
+    ],
+    "actual_dims": [
+      544,
+      512
+    ]
+  },
+  {
+    "image_id": 150,
+    "filename": "21308b3614.png",
+    "annotation_dims": [
+      512,
+      638
+    ],
+    "actual_dims": [
+      638,
+      512
+    ]
+  },
+  {
+    "image_id": 151,
+    "filename": "8136144eaf.png",
+    "annotation_dims": [
+      512,
+      555
+    ],
+    "actual_dims": [
+      555,
+      512
+    ]
+  },
+  {
+    "image_id": 152,
+    "filename": "d3ed612a2d.png",
+    "annotation_dims": [
+      512,
+      597
+    ],
+    "actual_dims": [
+      597,
+      512
+    ]
+  },
+  {
+    "image_id": 153,
+    "filename": "66a6ddb34e.png",
+    "annotation_dims": [
+      525,
+      512
+    ],
+    "actual_dims": [
+      512,
+      525
+    ]
+  },
+  {
+    "image_id": 154,
+    "filename": "62223ab32f.png",
+    "annotation_dims": [
+      512,
+      779
+    ],
+    "actual_dims": [
+      779,
+      512
+    ]
+  },
+  {
+    "image_id": 155,
+    "filename": "d29d644539.png",
+    "annotation_dims": [
+      512,
+      589
+    ],
+    "actual_dims": [
+      589,
+      512
+    ]
+  },
+  {
+    "image_id": 156,
+    "filename": "e4065c11e4.png",
+    "annotation_dims": [
+      512,
+      648
+    ],
+    "actual_dims": [
+      648,
+      512
+    ]
+  },
+  {
+    "image_id": 157,
+    "filename": "07330c8ea1.png",
+    "annotation_dims": [
+      526,
+      512
+    ],
+    "actual_dims": [
+      512,
+      526
+    ]
+  },
+  {
+    "image_id": 158,
+    "filename": "226dc58f03.png",
+    "annotation_dims": [
+      512,
+      778
+    ],
+    "actual_dims": [
+      778,
+      512
+    ]
+  },
+  {
+    "image_id": 159,
+    "filename": "2d1a6c5ce4.png",
+    "annotation_dims": [
+      512,
+      768
+    ],
+    "actual_dims": [
+      768,
+      512
+    ]
+  },
+  {
+    "image_id": 160,
+    "filename": "fd1f58d925.png",
+    "annotation_dims": [
+      512,
+      642
+    ],
+    "actual_dims": [
+      642,
+      512
+    ]
+  },
+  {
+    "image_id": 161,
+    "filename": "85f5efb77d.png",
+    "annotation_dims": [
+      512,
+      574
+    ],
+    "actual_dims": [
+      574,
+      512
+    ]
+  },
+  {
+    "image_id": 162,
+    "filename": "83afcabd95.png",
+    "annotation_dims": [
+      512,
+      729
+    ],
+    "actual_dims": [
+      729,
+      512
+    ]
+  },
+  {
+    "image_id": 164,
+    "filename": "b1fc590830.png",
+    "annotation_dims": [
+      512,
+      687
+    ],
+    "actual_dims": [
+      687,
+      512
+    ]
+  },
+  {
+    "image_id": 165,
+    "filename": "dbbbce5020.png",
+    "annotation_dims": [
+      512,
+      554
+    ],
+    "actual_dims": [
+      554,
+      512
+    ]
+  },
+  {
+    "image_id": 166,
+    "filename": "513158cf83.png",
+    "annotation_dims": [
+      512,
+      612
+    ],
+    "actual_dims": [
+      612,
+      512
+    ]
+  },
+  {
+    "image_id": 167,
+    "filename": "84a6330bdb.png",
+    "annotation_dims": [
+      512,
+      517
+    ],
+    "actual_dims": [
+      517,
+      512
+    ]
+  },
+  {
+    "image_id": 169,
+    "filename": "82c99bbb53.png",
+    "annotation_dims": [
+      512,
+      627
+    ],
+    "actual_dims": [
+      627,
+      512
+    ]
+  },
+  {
+    "image_id": 170,
+    "filename": "707120d0f5.png",
+    "annotation_dims": [
+      512,
+      526
+    ],
+    "actual_dims": [
+      526,
+      512
+    ]
+  },
+  {
+    "image_id": 171,
+    "filename": "7988097925.png",
+    "annotation_dims": [
+      512,
+      745
+    ],
+    "actual_dims": [
+      745,
+      512
+    ]
+  },
+  {
+    "image_id": 172,
+    "filename": "f6f3758bf4.png",
+    "annotation_dims": [
+      512,
+      684
+    ],
+    "actual_dims": [
+      684,
+      512
+    ]
+  },
+  {
+    "image_id": 173,
+    "filename": "fab3633337.png",
+    "annotation_dims": [
+      517,
+      512
+    ],
+    "actual_dims": [
+      512,
+      517
+    ]
+  },
+  {
+    "image_id": 174,
+    "filename": "d822219f76.png",
+    "annotation_dims": [
+      512,
+      777
+    ],
+    "actual_dims": [
+      777,
+      512
+    ]
+  },
+  {
+    "image_id": 175,
+    "filename": "345fb7ab68.png",
+    "annotation_dims": [
+      512,
+      679
+    ],
+    "actual_dims": [
+      679,
+      512
+    ]
+  },
+  {
+    "image_id": 176,
+    "filename": "2c6c108b4d.png",
+    "annotation_dims": [
+      514,
+      512
+    ],
+    "actual_dims": [
+      512,
+      514
+    ]
+  },
+  {
+    "image_id": 177,
+    "filename": "e73bcbd77d.png",
+    "annotation_dims": [
+      512,
+      597
+    ],
+    "actual_dims": [
+      597,
+      512
+    ]
+  },
+  {
+    "image_id": 178,
+    "filename": "39dda96b25.png",
+    "annotation_dims": [
+      528,
+      512
+    ],
+    "actual_dims": [
+      512,
+      528
+    ]
+  },
+  {
+    "image_id": 179,
+    "filename": "6d0f510327.png",
+    "annotation_dims": [
+      512,
+      520
+    ],
+    "actual_dims": [
+      520,
+      512
+    ]
+  },
+  {
+    "image_id": 180,
+    "filename": "9d2e813224.png",
+    "annotation_dims": [
+      512,
+      545
+    ],
+    "actual_dims": [
+      545,
+      512
+    ]
+  },
+  {
+    "image_id": 181,
+    "filename": "87429394b0.png",
+    "annotation_dims": [
+      512,
+      775
+    ],
+    "actual_dims": [
+      775,
+      512
+    ]
+  },
+  {
+    "image_id": 182,
+    "filename": "cb13cb5f85.png",
+    "annotation_dims": [
+      512,
+      513
+    ],
+    "actual_dims": [
+      513,
+      512
+    ]
+  },
+  {
+    "image_id": 183,
+    "filename": "2807b90ea9.png",
+    "annotation_dims": [
+      512,
+      777
+    ],
+    "actual_dims": [
+      777,
+      512
+    ]
+  },
+  {
+    "image_id": 184,
+    "filename": "257e44104b.png",
+    "annotation_dims": [
+      512,
+      565
+    ],
+    "actual_dims": [
+      565,
+      512
+    ]
+  },
+  {
+    "image_id": 185,
+    "filename": "c0ba8a65a5.png",
+    "annotation_dims": [
+      512,
+      693
+    ],
+    "actual_dims": [
+      693,
+      512
+    ]
+  },
+  {
+    "image_id": 186,
+    "filename": "bc1fe886af.png",
+    "annotation_dims": [
+      512,
+      1088
+    ],
+    "actual_dims": [
+      1088,
+      512
+    ]
+  },
+  {
+    "image_id": 187,
+    "filename": "dc20484021.png",
+    "annotation_dims": [
+      512,
+      751
+    ],
+    "actual_dims": [
+      751,
+      512
+    ]
+  },
+  {
+    "image_id": 188,
+    "filename": "3bbd05202e.png",
+    "annotation_dims": [
+      512,
+      593
+    ],
+    "actual_dims": [
+      593,
+      512
+    ]
+  },
+  {
+    "image_id": 189,
+    "filename": "53025d5189.png",
+    "annotation_dims": [
+      512,
+      568
+    ],
+    "actual_dims": [
+      568,
+      512
+    ]
+  },
+  {
+    "image_id": 190,
+    "filename": "9c4905d020.png",
+    "annotation_dims": [
+      512,
+      662
+    ],
+    "actual_dims": [
+      662,
+      512
+    ]
+  },
+  {
+    "image_id": 191,
+    "filename": "cef2196885.png",
+    "annotation_dims": [
+      520,
+      512
+    ],
+    "actual_dims": [
+      512,
+      520
+    ]
+  },
+  {
+    "image_id": 192,
+    "filename": "ce41e4e56d.png",
+    "annotation_dims": [
+      512,
+      738
+    ],
+    "actual_dims": [
+      738,
+      512
+    ]
+  },
+  {
+    "image_id": 193,
+    "filename": "934d76aaf2.png",
+    "annotation_dims": [
+      512,
+      704
+    ],
+    "actual_dims": [
+      704,
+      512
+    ]
+  },
+  {
+    "image_id": 194,
+    "filename": "63df66fb4d.png",
+    "annotation_dims": [
+      512,
+      729
+    ],
+    "actual_dims": [
+      729,
+      512
+    ]
+  },
+  {
+    "image_id": 195,
+    "filename": "636334b3f1.png",
+    "annotation_dims": [
+      512,
+      586
+    ],
+    "actual_dims": [
+      586,
+      512
+    ]
+  },
+  {
+    "image_id": 196,
+    "filename": "00655d9628.png",
+    "annotation_dims": [
+      515,
+      512
+    ],
+    "actual_dims": [
+      512,
+      515
+    ]
+  },
+  {
+    "image_id": 197,
+    "filename": "3692286ecf.png",
+    "annotation_dims": [
+      512,
+      687
+    ],
+    "actual_dims": [
+      687,
+      512
+    ]
+  },
+  {
+    "image_id": 198,
+    "filename": "c6ea896731.png",
+    "annotation_dims": [
+      512,
+      769
+    ],
+    "actual_dims": [
+      769,
+      512
+    ]
+  },
+  {
+    "image_id": 199,
+    "filename": "fb1eb65fe5.png",
+    "annotation_dims": [
+      526,
+      512
+    ],
+    "actual_dims": [
+      512,
+      526
+    ]
+  },
+  {
+    "image_id": 200,
+    "filename": "88808139d3.png",
+    "annotation_dims": [
+      512,
+      682
+    ],
+    "actual_dims": [
+      682,
+      512
+    ]
+  },
+  {
+    "image_id": 201,
+    "filename": "fcc97c015c.png",
+    "annotation_dims": [
+      512,
+      635
+    ],
+    "actual_dims": [
+      635,
+      512
+    ]
+  },
+  {
+    "image_id": 202,
+    "filename": "7f94f4bdab.png",
+    "annotation_dims": [
+      512,
+      773
+    ],
+    "actual_dims": [
+      773,
+      512
+    ]
+  },
+  {
+    "image_id": 203,
+    "filename": "7ecd3c2ab9.png",
+    "annotation_dims": [
+      534,
+      512
+    ],
+    "actual_dims": [
+      512,
+      534
+    ]
+  },
+  {
+    "image_id": 204,
+    "filename": "a8851978de.png",
+    "annotation_dims": [
+      512,
+      598
+    ],
+    "actual_dims": [
+      598,
+      512
+    ]
+  },
+  {
+    "image_id": 205,
+    "filename": "8c22d1acd5.png",
+    "annotation_dims": [
+      512,
+      593
+    ],
+    "actual_dims": [
+      593,
+      512
+    ]
+  },
+  {
+    "image_id": 206,
+    "filename": "58e8237dab.png",
+    "annotation_dims": [
+      512,
+      763
+    ],
+    "actual_dims": [
+      763,
+      512
+    ]
+  },
+  {
+    "image_id": 207,
+    "filename": "ea71fe4650.png",
+    "annotation_dims": [
+      512,
+      695
+    ],
+    "actual_dims": [
+      695,
+      512
+    ]
+  },
+  {
+    "image_id": 208,
+    "filename": "207bb15702.png",
+    "annotation_dims": [
+      512,
+      743
+    ],
+    "actual_dims": [
+      743,
+      512
+    ]
+  },
+  {
+    "image_id": 209,
+    "filename": "85a5d4d8b9.png",
+    "annotation_dims": [
+      512,
+      737
+    ],
+    "actual_dims": [
+      737,
+      512
+    ]
+  },
+  {
+    "image_id": 210,
+    "filename": "cc87926397.png",
+    "annotation_dims": [
+      512,
+      728
+    ],
+    "actual_dims": [
+      728,
+      512
+    ]
+  },
+  {
+    "image_id": 212,
+    "filename": "9797ed1000.png",
+    "annotation_dims": [
+      512,
+      666
+    ],
+    "actual_dims": [
+      666,
+      512
+    ]
+  },
+  {
+    "image_id": 213,
+    "filename": "5e22377208.png",
+    "annotation_dims": [
+      512,
+      555
+    ],
+    "actual_dims": [
+      555,
+      512
+    ]
+  },
+  {
+    "image_id": 214,
+    "filename": "74391d74bd.png",
+    "annotation_dims": [
+      512,
+      541
+    ],
+    "actual_dims": [
+      541,
+      512
+    ]
+  },
+  {
+    "image_id": 215,
+    "filename": "60feb7de8f.png",
+    "annotation_dims": [
+      512,
+      691
+    ],
+    "actual_dims": [
+      691,
+      512
+    ]
+  },
+  {
+    "image_id": 216,
+    "filename": "73e0a09cd2.png",
+    "annotation_dims": [
+      516,
+      512
+    ],
+    "actual_dims": [
+      512,
+      516
+    ]
+  },
+  {
+    "image_id": 217,
+    "filename": "c984680063.png",
+    "annotation_dims": [
+      512,
+      579
+    ],
+    "actual_dims": [
+      579,
+      512
+    ]
+  },
+  {
+    "image_id": 219,
+    "filename": "d933f429cc.png",
+    "annotation_dims": [
+      512,
+      547
+    ],
+    "actual_dims": [
+      547,
+      512
+    ]
+  },
+  {
+    "image_id": 220,
+    "filename": "26e5f24689.png",
+    "annotation_dims": [
+      514,
+      512
+    ],
+    "actual_dims": [
+      512,
+      514
+    ]
+  },
+  {
+    "image_id": 221,
+    "filename": "4545280c2b.png",
+    "annotation_dims": [
+      512,
+      566
+    ],
+    "actual_dims": [
+      566,
+      512
+    ]
+  },
+  {
+    "image_id": 222,
+    "filename": "f6c0d8967e.png",
+    "annotation_dims": [
+      512,
+      867
+    ],
+    "actual_dims": [
+      867,
+      512
+    ]
+  },
+  {
+    "image_id": 223,
+    "filename": "923cab32ee.png",
+    "annotation_dims": [
+      515,
+      512
+    ],
+    "actual_dims": [
+      512,
+      515
+    ]
+  },
+  {
+    "image_id": 224,
+    "filename": "b85f5e414c.png",
+    "annotation_dims": [
+      512,
+      552
+    ],
+    "actual_dims": [
+      552,
+      512
+    ]
+  },
+  {
+    "image_id": 225,
+    "filename": "82b9b9c2af.png",
+    "annotation_dims": [
+      512,
+      650
+    ],
+    "actual_dims": [
+      650,
+      512
+    ]
+  },
+  {
+    "image_id": 227,
+    "filename": "98a18b7db9.png",
+    "annotation_dims": [
+      512,
+      754
+    ],
+    "actual_dims": [
+      754,
+      512
+    ]
+  },
+  {
+    "image_id": 228,
+    "filename": "ed120ef412.png",
+    "annotation_dims": [
+      512,
+      664
+    ],
+    "actual_dims": [
+      664,
+      512
+    ]
+  },
+  {
+    "image_id": 229,
+    "filename": "a1e18db01a.png",
+    "annotation_dims": [
+      512,
+      678
+    ],
+    "actual_dims": [
+      678,
+      512
+    ]
+  },
+  {
+    "image_id": 230,
+    "filename": "43875c5b20.png",
+    "annotation_dims": [
+      512,
+      595
+    ],
+    "actual_dims": [
+      595,
+      512
+    ]
+  },
+  {
+    "image_id": 231,
+    "filename": "1ecd5c901c.png",
+    "annotation_dims": [
+      512,
+      583
+    ],
+    "actual_dims": [
+      583,
+      512
+    ]
+  },
+  {
+    "image_id": 232,
+    "filename": "132788669c.png",
+    "annotation_dims": [
+      512,
+      516
+    ],
+    "actual_dims": [
+      516,
+      512
+    ]
+  },
+  {
+    "image_id": 233,
+    "filename": "e8e39c913a.png",
+    "annotation_dims": [
+      521,
+      512
+    ],
+    "actual_dims": [
+      512,
+      521
+    ]
+  },
+  {
+    "image_id": 234,
+    "filename": "0a30487a4e.png",
+    "annotation_dims": [
+      512,
+      517
+    ],
+    "actual_dims": [
+      517,
+      512
+    ]
+  },
+  {
+    "image_id": 235,
+    "filename": "b3e7900e39.png",
+    "annotation_dims": [
+      512,
+      518
+    ],
+    "actual_dims": [
+      518,
+      512
+    ]
+  },
+  {
+    "image_id": 236,
+    "filename": "6de290c824.png",
+    "annotation_dims": [
+      512,
+      556
+    ],
+    "actual_dims": [
+      556,
+      512
+    ]
+  },
+  {
+    "image_id": 237,
+    "filename": "7ab1f4b7ba.png",
+    "annotation_dims": [
+      512,
+      609
+    ],
+    "actual_dims": [
+      609,
+      512
+    ]
+  },
+  {
+    "image_id": 238,
+    "filename": "c294fece54.png",
+    "annotation_dims": [
+      512,
+      576
+    ],
+    "actual_dims": [
+      576,
+      512
+    ]
+  },
+  {
+    "image_id": 239,
+    "filename": "85743c45d1.png",
+    "annotation_dims": [
+      512,
+      572
+    ],
+    "actual_dims": [
+      572,
+      512
+    ]
+  },
+  {
+    "image_id": 240,
+    "filename": "7c5501d292.png",
+    "annotation_dims": [
+      512,
+      929
+    ],
+    "actual_dims": [
+      929,
+      512
+    ]
+  },
+  {
+    "image_id": 241,
+    "filename": "bf6f1a320a.png",
+    "annotation_dims": [
+      512,
+      683
+    ],
+    "actual_dims": [
+      683,
+      512
+    ]
+  },
+  {
+    "image_id": 242,
+    "filename": "8e50748a7b.png",
+    "annotation_dims": [
+      512,
+      674
+    ],
+    "actual_dims": [
+      674,
+      512
+    ]
+  },
+  {
+    "image_id": 243,
+    "filename": "027f25010a.png",
+    "annotation_dims": [
+      621,
+      512
+    ],
+    "actual_dims": [
+      512,
+      621
+    ]
+  },
+  {
+    "image_id": 244,
+    "filename": "5addfe7111.png",
+    "annotation_dims": [
+      512,
+      768
+    ],
+    "actual_dims": [
+      768,
+      512
+    ]
+  },
+  {
+    "image_id": 245,
+    "filename": "1206963ed7.png",
+    "annotation_dims": [
+      513,
+      512
+    ],
+    "actual_dims": [
+      512,
+      513
+    ]
+  },
+  {
+    "image_id": 246,
+    "filename": "dcfbfa74e4.png",
+    "annotation_dims": [
+      512,
+      750
+    ],
+    "actual_dims": [
+      750,
+      512
+    ]
+  },
+  {
+    "image_id": 247,
+    "filename": "be5df16bd4.png",
+    "annotation_dims": [
+      568,
+      512
+    ],
+    "actual_dims": [
+      512,
+      568
+    ]
+  },
+  {
+    "image_id": 248,
+    "filename": "4822787326.png",
+    "annotation_dims": [
+      512,
+      527
+    ],
+    "actual_dims": [
+      527,
+      512
+    ]
+  },
+  {
+    "image_id": 249,
+    "filename": "398ae34c19.png",
+    "annotation_dims": [
+      512,
+      746
+    ],
+    "actual_dims": [
+      746,
+      512
+    ]
+  },
+  {
+    "image_id": 250,
+    "filename": "3d103080e6.png",
+    "annotation_dims": [
+      512,
+      661
+    ],
+    "actual_dims": [
+      661,
+      512
+    ]
+  },
+  {
+    "image_id": 251,
+    "filename": "5c1cd79e2e.png",
+    "annotation_dims": [
+      512,
+      823
+    ],
+    "actual_dims": [
+      823,
+      512
+    ]
+  },
+  {
+    "image_id": 252,
+    "filename": "e59a1a493e.png",
+    "annotation_dims": [
+      512,
+      711
+    ],
+    "actual_dims": [
+      711,
+      512
+    ]
+  },
+  {
+    "image_id": 253,
+    "filename": "b78bdee5d3.png",
+    "annotation_dims": [
+      512,
+      594
+    ],
+    "actual_dims": [
+      594,
+      512
+    ]
+  },
+  {
+    "image_id": 254,
+    "filename": "83fd5c9288.png",
+    "annotation_dims": [
+      513,
+      512
+    ],
+    "actual_dims": [
+      512,
+      513
+    ]
+  },
+  {
+    "image_id": 255,
+    "filename": "34f4fb273d.png",
+    "annotation_dims": [
+      513,
+      512
+    ],
+    "actual_dims": [
+      512,
+      513
+    ]
+  },
+  {
+    "image_id": 256,
+    "filename": "453123a947.png",
+    "annotation_dims": [
+      512,
+      669
+    ],
+    "actual_dims": [
+      669,
+      512
+    ]
+  },
+  {
+    "image_id": 257,
+    "filename": "691f7638fd.png",
+    "annotation_dims": [
+      512,
+      685
+    ],
+    "actual_dims": [
+      685,
+      512
+    ]
+  },
+  {
+    "image_id": 258,
+    "filename": "294049f7a8.png",
+    "annotation_dims": [
+      512,
+      684
+    ],
+    "actual_dims": [
+      684,
+      512
+    ]
+  },
+  {
+    "image_id": 259,
+    "filename": "1700be1235.png",
+    "annotation_dims": [
+      512,
+      552
+    ],
+    "actual_dims": [
+      552,
+      512
+    ]
+  },
+  {
+    "image_id": 260,
+    "filename": "eb67400438.png",
+    "annotation_dims": [
+      512,
+      536
+    ],
+    "actual_dims": [
+      536,
+      512
+    ]
+  },
+  {
+    "image_id": 261,
+    "filename": "28d7e31165.png",
+    "annotation_dims": [
+      512,
+      517
+    ],
+    "actual_dims": [
+      517,
+      512
+    ]
+  },
+  {
+    "image_id": 262,
+    "filename": "f7fa7d1729.png",
+    "annotation_dims": [
+      516,
+      512
+    ],
+    "actual_dims": [
+      512,
+      516
+    ]
+  },
+  {
+    "image_id": 263,
+    "filename": "d8eff0e0bd.png",
+    "annotation_dims": [
+      512,
+      655
+    ],
+    "actual_dims": [
+      655,
+      512
+    ]
+  },
+  {
+    "image_id": 264,
+    "filename": "291898b7c6.png",
+    "annotation_dims": [
+      514,
+      512
+    ],
+    "actual_dims": [
+      512,
+      514
+    ]
+  },
+  {
+    "image_id": 265,
+    "filename": "c1cccb3332.png",
+    "annotation_dims": [
+      512,
+      545
+    ],
+    "actual_dims": [
+      545,
+      512
+    ]
+  },
+  {
+    "image_id": 266,
+    "filename": "39e18a8f4c.png",
+    "annotation_dims": [
+      512,
+      618
+    ],
+    "actual_dims": [
+      618,
+      512
+    ]
+  },
+  {
+    "image_id": 267,
+    "filename": "5842aa1a32.png",
+    "annotation_dims": [
+      512,
+      542
+    ],
+    "actual_dims": [
+      542,
+      512
+    ]
+  },
+  {
+    "image_id": 268,
+    "filename": "ce46819633.png",
+    "annotation_dims": [
+      512,
+      765
+    ],
+    "actual_dims": [
+      765,
+      512
+    ]
+  },
+  {
+    "image_id": 269,
+    "filename": "d7da1a24ad.png",
+    "annotation_dims": [
+      514,
+      512
+    ],
+    "actual_dims": [
+      512,
+      514
+    ]
+  },
+  {
+    "image_id": 270,
+    "filename": "611b9564a4.png",
+    "annotation_dims": [
+      512,
+      515
+    ],
+    "actual_dims": [
+      515,
+      512
+    ]
+  },
+  {
+    "image_id": 271,
+    "filename": "8e1269eba3.png",
+    "annotation_dims": [
+      512,
+      680
+    ],
+    "actual_dims": [
+      680,
+      512
+    ]
+  },
+  {
+    "image_id": 272,
+    "filename": "5737e0c2c7.png",
+    "annotation_dims": [
+      512,
+      513
+    ],
+    "actual_dims": [
+      513,
+      512
+    ]
+  },
+  {
+    "image_id": 273,
+    "filename": "5a25d179cc.png",
+    "annotation_dims": [
+      512,
+      733
+    ],
+    "actual_dims": [
+      733,
+      512
+    ]
+  },
+  {
+    "image_id": 275,
+    "filename": "ec2cc16d2a.png",
+    "annotation_dims": [
+      512,
+      632
+    ],
+    "actual_dims": [
+      632,
+      512
+    ]
+  },
+  {
+    "image_id": 276,
+    "filename": "5898a2ac02.png",
+    "annotation_dims": [
+      512,
+      532
+    ],
+    "actual_dims": [
+      532,
+      512
+    ]
+  },
+  {
+    "image_id": 277,
+    "filename": "bf901d32a3.png",
+    "annotation_dims": [
+      512,
+      701
+    ],
+    "actual_dims": [
+      701,
+      512
+    ]
+  },
+  {
+    "image_id": 278,
+    "filename": "0289bd97e6.png",
+    "annotation_dims": [
+      512,
+      687
+    ],
+    "actual_dims": [
+      687,
+      512
+    ]
+  },
+  {
+    "image_id": 279,
+    "filename": "dfeaa0d54b.png",
+    "annotation_dims": [
+      512,
+      521
+    ],
+    "actual_dims": [
+      521,
+      512
+    ]
+  },
+  {
+    "image_id": 282,
+    "filename": "782d7f752d.png",
+    "annotation_dims": [
+      512,
+      697
+    ],
+    "actual_dims": [
+      697,
+      512
+    ]
+  },
+  {
+    "image_id": 283,
+    "filename": "01ac659240.png",
+    "annotation_dims": [
+      512,
+      587
+    ],
+    "actual_dims": [
+      587,
+      512
+    ]
+  },
+  {
+    "image_id": 285,
+    "filename": "d54e727066.png",
+    "annotation_dims": [
+      512,
+      692
+    ],
+    "actual_dims": [
+      692,
+      512
+    ]
+  },
+  {
+    "image_id": 286,
+    "filename": "b996f341bd.png",
+    "annotation_dims": [
+      512,
+      730
+    ],
+    "actual_dims": [
+      730,
+      512
+    ]
+  },
+  {
+    "image_id": 287,
+    "filename": "3d1937b05c.png",
+    "annotation_dims": [
+      512,
+      779
+    ],
+    "actual_dims": [
+      779,
+      512
+    ]
+  },
+  {
+    "image_id": 288,
+    "filename": "f58490bdaf.png",
+    "annotation_dims": [
+      512,
+      770
+    ],
+    "actual_dims": [
+      770,
+      512
+    ]
+  },
+  {
+    "image_id": 289,
+    "filename": "763c317d5d.png",
+    "annotation_dims": [
+      512,
+      513
+    ],
+    "actual_dims": [
+      513,
+      512
+    ]
+  },
+  {
+    "image_id": 291,
+    "filename": "544b32e4cd.png",
+    "annotation_dims": [
+      512,
+      735
+    ],
+    "actual_dims": [
+      735,
+      512
+    ]
+  },
+  {
+    "image_id": 292,
+    "filename": "a3eb38c236.png",
+    "annotation_dims": [
+      512,
+      664
+    ],
+    "actual_dims": [
+      664,
+      512
+    ]
+  },
+  {
+    "image_id": 294,
+    "filename": "d04d7ced9f.png",
+    "annotation_dims": [
+      512,
+      688
+    ],
+    "actual_dims": [
+      688,
+      512
+    ]
+  },
+  {
+    "image_id": 295,
+    "filename": "f659af19da.png",
+    "annotation_dims": [
+      512,
+      768
+    ],
+    "actual_dims": [
+      768,
+      512
+    ]
+  },
+  {
+    "image_id": 296,
+    "filename": "4ec7671d11.png",
+    "annotation_dims": [
+      512,
+      630
+    ],
+    "actual_dims": [
+      630,
+      512
+    ]
+  },
+  {
+    "image_id": 297,
+    "filename": "ed3a3cb76b.png",
+    "annotation_dims": [
+      512,
+      513
+    ],
+    "actual_dims": [
+      513,
+      512
+    ]
+  },
+  {
+    "image_id": 298,
+    "filename": "f9d59dcb02.png",
+    "annotation_dims": [
+      536,
+      512
+    ],
+    "actual_dims": [
+      512,
+      536
+    ]
+  },
+  {
+    "image_id": 299,
+    "filename": "f8a1b2bf39.png",
+    "annotation_dims": [
+      512,
+      684
+    ],
+    "actual_dims": [
+      684,
+      512
+    ]
+  },
+  {
+    "image_id": 300,
+    "filename": "3ac1920a79.png",
+    "annotation_dims": [
+      512,
+      700
+    ],
+    "actual_dims": [
+      700,
+      512
+    ]
+  },
+  {
+    "image_id": 301,
+    "filename": "5c418c2eb0.png",
+    "annotation_dims": [
+      512,
+      631
+    ],
+    "actual_dims": [
+      631,
+      512
+    ]
+  },
+  {
+    "image_id": 302,
+    "filename": "854de5be19.png",
+    "annotation_dims": [
+      519,
+      512
+    ],
+    "actual_dims": [
+      512,
+      519
+    ]
+  },
+  {
+    "image_id": 303,
+    "filename": "296a52bf09.png",
+    "annotation_dims": [
+      515,
+      512
+    ],
+    "actual_dims": [
+      512,
+      515
+    ]
+  },
+  {
+    "image_id": 304,
+    "filename": "31f17306c8.png",
+    "annotation_dims": [
+      512,
+      727
+    ],
+    "actual_dims": [
+      727,
+      512
+    ]
+  },
+  {
+    "image_id": 305,
+    "filename": "ab82fe7827.png",
+    "annotation_dims": [
+      512,
+      758
+    ],
+    "actual_dims": [
+      758,
+      512
+    ]
+  },
+  {
+    "image_id": 306,
+    "filename": "0144266d21.png",
+    "annotation_dims": [
+      514,
+      512
+    ],
+    "actual_dims": [
+      512,
+      514
+    ]
+  },
+  {
+    "image_id": 307,
+    "filename": "406d70e411.png",
+    "annotation_dims": [
+      512,
+      671
+    ],
+    "actual_dims": [
+      671,
+      512
+    ]
+  },
+  {
+    "image_id": 308,
+    "filename": "5f42a8d4a9.png",
+    "annotation_dims": [
+      514,
+      512
+    ],
+    "actual_dims": [
+      512,
+      514
+    ]
+  },
+  {
+    "image_id": 309,
+    "filename": "a562af31ea.png",
+    "annotation_dims": [
+      512,
+      591
+    ],
+    "actual_dims": [
+      591,
+      512
+    ]
+  },
+  {
+    "image_id": 310,
+    "filename": "22d5aab090.png",
+    "annotation_dims": [
+      512,
+      772
+    ],
+    "actual_dims": [
+      772,
+      512
+    ]
+  },
+  {
+    "image_id": 311,
+    "filename": "208b16bbb7.png",
+    "annotation_dims": [
+      512,
+      515
+    ],
+    "actual_dims": [
+      515,
+      512
+    ]
+  },
+  {
+    "image_id": 312,
+    "filename": "ffae2f363e.png",
+    "annotation_dims": [
+      512,
+      520
+    ],
+    "actual_dims": [
+      520,
+      512
+    ]
+  },
+  {
+    "image_id": 313,
+    "filename": "ee8a331d06.png",
+    "annotation_dims": [
+      512,
+      746
+    ],
+    "actual_dims": [
+      746,
+      512
+    ]
+  },
+  {
+    "image_id": 314,
+    "filename": "0113230c21.png",
+    "annotation_dims": [
+      512,
+      680
+    ],
+    "actual_dims": [
+      680,
+      512
+    ]
+  },
+  {
+    "image_id": 315,
+    "filename": "7e85b64066.png",
+    "annotation_dims": [
+      512,
+      632
+    ],
+    "actual_dims": [
+      632,
+      512
+    ]
+  },
+  {
+    "image_id": 316,
+    "filename": "cf6823322f.png",
+    "annotation_dims": [
+      512,
+      633
+    ],
+    "actual_dims": [
+      633,
+      512
+    ]
+  },
+  {
+    "image_id": 317,
+    "filename": "e111fb569d.png",
+    "annotation_dims": [
+      512,
+      711
+    ],
+    "actual_dims": [
+      711,
+      512
+    ]
+  },
+  {
+    "image_id": 318,
+    "filename": "af2a275342.png",
+    "annotation_dims": [
+      512,
+      769
+    ],
+    "actual_dims": [
+      769,
+      512
+    ]
+  },
+  {
+    "image_id": 319,
+    "filename": "9318f3ce70.png",
+    "annotation_dims": [
+      512,
+      547
+    ],
+    "actual_dims": [
+      547,
+      512
+    ]
+  },
+  {
+    "image_id": 320,
+    "filename": "c61a50a061.png",
+    "annotation_dims": [
+      512,
+      598
+    ],
+    "actual_dims": [
+      598,
+      512
+    ]
+  },
+  {
+    "image_id": 321,
+    "filename": "5a6c23682b.png",
+    "annotation_dims": [
+      512,
+      687
+    ],
+    "actual_dims": [
+      687,
+      512
+    ]
+  },
+  {
+    "image_id": 322,
+    "filename": "8fde53b05f.png",
+    "annotation_dims": [
+      512,
+      732
+    ],
+    "actual_dims": [
+      732,
+      512
+    ]
+  },
+  {
+    "image_id": 323,
+    "filename": "70f9f13af4.png",
+    "annotation_dims": [
+      512,
+      631
+    ],
+    "actual_dims": [
+      631,
+      512
+    ]
+  },
+  {
+    "image_id": 324,
+    "filename": "586dc6cc59.png",
+    "annotation_dims": [
+      512,
+      535
+    ],
+    "actual_dims": [
+      535,
+      512
+    ]
+  },
+  {
+    "image_id": 326,
+    "filename": "b5ba9813a4.png",
+    "annotation_dims": [
+      512,
+      514
+    ],
+    "actual_dims": [
+      514,
+      512
+    ]
+  },
+  {
+    "image_id": 327,
+    "filename": "4cd9e65aae.png",
+    "annotation_dims": [
+      512,
+      682
+    ],
+    "actual_dims": [
+      682,
+      512
+    ]
+  },
+  {
+    "image_id": 328,
+    "filename": "75e968af41.png",
+    "annotation_dims": [
+      514,
+      512
+    ],
+    "actual_dims": [
+      512,
+      514
+    ]
+  },
+  {
+    "image_id": 329,
+    "filename": "90615b870a.png",
+    "annotation_dims": [
+      513,
+      512
+    ],
+    "actual_dims": [
+      512,
+      513
+    ]
+  },
+  {
+    "image_id": 330,
+    "filename": "893215335a.png",
+    "annotation_dims": [
+      512,
+      704
+    ],
+    "actual_dims": [
+      704,
+      512
+    ]
+  },
+  {
+    "image_id": 331,
+    "filename": "9ef6e6b29d.png",
+    "annotation_dims": [
+      512,
+      638
+    ],
+    "actual_dims": [
+      638,
+      512
+    ]
+  },
+  {
+    "image_id": 332,
+    "filename": "50a4901372.png",
+    "annotation_dims": [
+      512,
+      731
+    ],
+    "actual_dims": [
+      731,
+      512
+    ]
+  },
+  {
+    "image_id": 333,
+    "filename": "a68915823c.png",
+    "annotation_dims": [
+      512,
+      734
+    ],
+    "actual_dims": [
+      734,
+      512
+    ]
+  },
+  {
+    "image_id": 334,
+    "filename": "f664201c62.png",
+    "annotation_dims": [
+      512,
+      551
+    ],
+    "actual_dims": [
+      551,
+      512
+    ]
+  },
+  {
+    "image_id": 335,
+    "filename": "627acee9c4.png",
+    "annotation_dims": [
+      512,
+      774
+    ],
+    "actual_dims": [
+      774,
+      512
+    ]
+  },
+  {
+    "image_id": 336,
+    "filename": "41ac55ed12.png",
+    "annotation_dims": [
+      512,
+      698
+    ],
+    "actual_dims": [
+      698,
+      512
+    ]
+  },
+  {
+    "image_id": 337,
+    "filename": "2bc87a8698.png",
+    "annotation_dims": [
+      512,
+      567
+    ],
+    "actual_dims": [
+      567,
+      512
+    ]
+  },
+  {
+    "image_id": 338,
+    "filename": "60c63e2383.png",
+    "annotation_dims": [
+      512,
+      614
+    ],
+    "actual_dims": [
+      614,
+      512
+    ]
+  },
+  {
+    "image_id": 339,
+    "filename": "6360a823da.png",
+    "annotation_dims": [
+      512,
+      626
+    ],
+    "actual_dims": [
+      626,
+      512
+    ]
+  },
+  {
+    "image_id": 340,
+    "filename": "e071eefebb.png",
+    "annotation_dims": [
+      512,
+      519
+    ],
+    "actual_dims": [
+      519,
+      512
+    ]
+  },
+  {
+    "image_id": 341,
+    "filename": "17f1cecc7a.png",
+    "annotation_dims": [
+      515,
+      512
+    ],
+    "actual_dims": [
+      512,
+      515
+    ]
+  },
+  {
+    "image_id": 342,
+    "filename": "19b0afdf81.png",
+    "annotation_dims": [
+      512,
+      517
+    ],
+    "actual_dims": [
+      517,
+      512
+    ]
+  },
+  {
+    "image_id": 343,
+    "filename": "1b935635dd.png",
+    "annotation_dims": [
+      512,
+      697
+    ],
+    "actual_dims": [
+      697,
+      512
+    ]
+  },
+  {
+    "image_id": 344,
+    "filename": "62594342ac.png",
+    "annotation_dims": [
+      512,
+      914
+    ],
+    "actual_dims": [
+      914,
+      512
+    ]
+  },
+  {
+    "image_id": 345,
+    "filename": "ef6bbe7612.png",
+    "annotation_dims": [
+      512,
+      730
+    ],
+    "actual_dims": [
+      730,
+      512
+    ]
+  },
+  {
+    "image_id": 346,
+    "filename": "cc9540d282.png",
+    "annotation_dims": [
+      512,
+      560
+    ],
+    "actual_dims": [
+      560,
+      512
+    ]
+  },
+  {
+    "image_id": 347,
+    "filename": "2daa27a6df.png",
+    "annotation_dims": [
+      512,
+      647
+    ],
+    "actual_dims": [
+      647,
+      512
+    ]
+  },
+  {
+    "image_id": 348,
+    "filename": "41c25dca24.png",
+    "annotation_dims": [
+      512,
+      550
+    ],
+    "actual_dims": [
+      550,
+      512
+    ]
+  },
+  {
+    "image_id": 349,
+    "filename": "2cd773d930.png",
+    "annotation_dims": [
+      512,
+      518
+    ],
+    "actual_dims": [
+      518,
+      512
+    ]
+  },
+  {
+    "image_id": 350,
+    "filename": "fc2851e6d3.png",
+    "annotation_dims": [
+      514,
+      512
+    ],
+    "actual_dims": [
+      512,
+      514
+    ]
+  },
+  {
+    "image_id": 351,
+    "filename": "913312cfdf.png",
+    "annotation_dims": [
+      534,
+      512
+    ],
+    "actual_dims": [
+      512,
+      534
+    ]
+  },
+  {
+    "image_id": 352,
+    "filename": "ed3547f3da.png",
+    "annotation_dims": [
+      520,
+      512
+    ],
+    "actual_dims": [
+      512,
+      520
+    ]
+  },
+  {
+    "image_id": 353,
+    "filename": "39b0dc1f52.png",
+    "annotation_dims": [
+      512,
+      681
+    ],
+    "actual_dims": [
+      681,
+      512
+    ]
+  },
+  {
+    "image_id": 354,
+    "filename": "9c68e03e41.png",
+    "annotation_dims": [
+      512,
+      826
+    ],
+    "actual_dims": [
+      826,
+      512
+    ]
+  },
+  {
+    "image_id": 355,
+    "filename": "728f55aed4.png",
+    "annotation_dims": [
+      512,
+      1027
+    ],
+    "actual_dims": [
+      1027,
+      512
+    ]
+  },
+  {
+    "image_id": 356,
+    "filename": "cd48200d46.png",
+    "annotation_dims": [
+      512,
+      741
+    ],
+    "actual_dims": [
+      741,
+      512
+    ]
+  },
+  {
+    "image_id": 357,
+    "filename": "2242820128.png",
+    "annotation_dims": [
+      512,
+      682
+    ],
+    "actual_dims": [
+      682,
+      512
+    ]
+  },
+  {
+    "image_id": 358,
+    "filename": "555eb05b4c.png",
+    "annotation_dims": [
+      512,
+      683
+    ],
+    "actual_dims": [
+      683,
+      512
+    ]
+  },
+  {
+    "image_id": 359,
+    "filename": "9ca16b98df.png",
+    "annotation_dims": [
+      512,
+      659
+    ],
+    "actual_dims": [
+      659,
+      512
+    ]
+  },
+  {
+    "image_id": 360,
+    "filename": "a8e3f32537.png",
+    "annotation_dims": [
+      512,
+      683
+    ],
+    "actual_dims": [
+      683,
+      512
+    ]
+  },
+  {
+    "image_id": 361,
+    "filename": "b16f4f83a4.png",
+    "annotation_dims": [
+      512,
+      546
+    ],
+    "actual_dims": [
+      546,
+      512
+    ]
+  },
+  {
+    "image_id": 362,
+    "filename": "77f09d7ca4.png",
+    "annotation_dims": [
+      512,
+      580
+    ],
+    "actual_dims": [
+      580,
+      512
+    ]
+  },
+  {
+    "image_id": 363,
+    "filename": "7f1a5b0782.png",
+    "annotation_dims": [
+      512,
+      776
+    ],
+    "actual_dims": [
+      776,
+      512
+    ]
+  },
+  {
+    "image_id": 364,
+    "filename": "78834ed976.png",
+    "annotation_dims": [
+      512,
+      540
+    ],
+    "actual_dims": [
+      540,
+      512
+    ]
+  },
+  {
+    "image_id": 366,
+    "filename": "a45586af89.png",
+    "annotation_dims": [
+      512,
+      541
+    ],
+    "actual_dims": [
+      541,
+      512
+    ]
+  },
+  {
+    "image_id": 367,
+    "filename": "36de69b2c0.png",
+    "annotation_dims": [
+      512,
+      564
+    ],
+    "actual_dims": [
+      564,
+      512
+    ]
+  },
+  {
+    "image_id": 368,
+    "filename": "b657336f23.png",
+    "annotation_dims": [
+      512,
+      516
+    ],
+    "actual_dims": [
+      516,
+      512
+    ]
+  },
+  {
+    "image_id": 369,
+    "filename": "c1d32ab54d.png",
+    "annotation_dims": [
+      512,
+      613
+    ],
+    "actual_dims": [
+      613,
+      512
+    ]
+  },
+  {
+    "image_id": 370,
+    "filename": "e6bfc43298.png",
+    "annotation_dims": [
+      512,
+      614
+    ],
+    "actual_dims": [
+      614,
+      512
+    ]
+  },
+  {
+    "image_id": 371,
+    "filename": "2e5dab1969.png",
+    "annotation_dims": [
+      512,
+      777
+    ],
+    "actual_dims": [
+      777,
+      512
+    ]
+  },
+  {
+    "image_id": 372,
+    "filename": "b616ffa779.png",
+    "annotation_dims": [
+      512,
+      519
+    ],
+    "actual_dims": [
+      519,
+      512
+    ]
+  },
+  {
+    "image_id": 373,
+    "filename": "0384c4e782.png",
+    "annotation_dims": [
+      512,
+      767
+    ],
+    "actual_dims": [
+      767,
+      512
+    ]
+  },
+  {
+    "image_id": 374,
+    "filename": "406975041a.png",
+    "annotation_dims": [
+      512,
+      513
+    ],
+    "actual_dims": [
+      513,
+      512
+    ]
+  },
+  {
+    "image_id": 375,
+    "filename": "c7e9ec8d48.png",
+    "annotation_dims": [
+      512,
+      769
+    ],
+    "actual_dims": [
+      769,
+      512
+    ]
+  },
+  {
+    "image_id": 376,
+    "filename": "fc9e19325c.png",
+    "annotation_dims": [
+      531,
+      512
+    ],
+    "actual_dims": [
+      512,
+      531
+    ]
+  },
+  {
+    "image_id": 377,
+    "filename": "f78844f8ce.png",
+    "annotation_dims": [
+      512,
+      680
+    ],
+    "actual_dims": [
+      680,
+      512
+    ]
+  },
+  {
+    "image_id": 378,
+    "filename": "864a2a6ccf.png",
+    "annotation_dims": [
+      512,
+      656
+    ],
+    "actual_dims": [
+      656,
+      512
+    ]
+  },
+  {
+    "image_id": 379,
+    "filename": "b2a7683174.png",
+    "annotation_dims": [
+      512,
+      523
+    ],
+    "actual_dims": [
+      523,
+      512
+    ]
+  },
+  {
+    "image_id": 381,
+    "filename": "f32c7bd62b.png",
+    "annotation_dims": [
+      528,
+      512
+    ],
+    "actual_dims": [
+      512,
+      528
+    ]
+  },
+  {
+    "image_id": 382,
+    "filename": "5568be0f4c.png",
+    "annotation_dims": [
+      512,
+      640
+    ],
+    "actual_dims": [
+      640,
+      512
+    ]
+  },
+  {
+    "image_id": 383,
+    "filename": "8bf3782470.png",
+    "annotation_dims": [
+      512,
+      708
+    ],
+    "actual_dims": [
+      708,
+      512
+    ]
+  },
+  {
+    "image_id": 384,
+    "filename": "c5c0825297.png",
+    "annotation_dims": [
+      512,
+      739
+    ],
+    "actual_dims": [
+      739,
+      512
+    ]
+  },
+  {
+    "image_id": 385,
+    "filename": "7d54a1c5b3.png",
+    "annotation_dims": [
+      616,
+      512
+    ],
+    "actual_dims": [
+      512,
+      616
+    ]
+  },
+  {
+    "image_id": 386,
+    "filename": "d90c9c5b72.png",
+    "annotation_dims": [
+      512,
+      759
+    ],
+    "actual_dims": [
+      759,
+      512
+    ]
+  },
+  {
+    "image_id": 387,
+    "filename": "8cee575b39.png",
+    "annotation_dims": [
+      512,
+      595
+    ],
+    "actual_dims": [
+      595,
+      512
+    ]
+  },
+  {
+    "image_id": 388,
+    "filename": "9fa90de188.png",
+    "annotation_dims": [
+      512,
+      773
+    ],
+    "actual_dims": [
+      773,
+      512
+    ]
+  },
+  {
+    "image_id": 389,
+    "filename": "39b3a6db5e.png",
+    "annotation_dims": [
+      512,
+      518
+    ],
+    "actual_dims": [
+      518,
+      512
+    ]
+  },
+  {
+    "image_id": 390,
+    "filename": "e6822fbe96.png",
+    "annotation_dims": [
+      512,
+      806
+    ],
+    "actual_dims": [
+      806,
+      512
+    ]
+  },
+  {
+    "image_id": 391,
+    "filename": "a59bcf3f13.png",
+    "annotation_dims": [
+      512,
+      657
+    ],
+    "actual_dims": [
+      657,
+      512
+    ]
+  },
+  {
+    "image_id": 392,
+    "filename": "37ce835fb2.png",
+    "annotation_dims": [
+      512,
+      916
+    ],
+    "actual_dims": [
+      916,
+      512
+    ]
+  },
+  {
+    "image_id": 393,
+    "filename": "a880175367.png",
+    "annotation_dims": [
+      512,
+      513
+    ],
+    "actual_dims": [
+      513,
+      512
+    ]
+  },
+  {
+    "image_id": 394,
+    "filename": "b95828224e.png",
+    "annotation_dims": [
+      512,
+      732
+    ],
+    "actual_dims": [
+      732,
+      512
+    ]
+  },
+  {
+    "image_id": 395,
+    "filename": "a1dada3898.png",
+    "annotation_dims": [
+      512,
+      655
+    ],
+    "actual_dims": [
+      655,
+      512
+    ]
+  },
+  {
+    "image_id": 396,
+    "filename": "3430b20071.png",
+    "annotation_dims": [
+      512,
+      514
+    ],
+    "actual_dims": [
+      514,
+      512
+    ]
+  },
+  {
+    "image_id": 397,
+    "filename": "482193653a.png",
+    "annotation_dims": [
+      512,
+      578
+    ],
+    "actual_dims": [
+      578,
+      512
+    ]
+  },
+  {
+    "image_id": 398,
+    "filename": "032bd4a6b1.png",
+    "annotation_dims": [
+      512,
+      598
+    ],
+    "actual_dims": [
+      598,
+      512
+    ]
+  },
+  {
+    "image_id": 399,
+    "filename": "a027b64ae9.png",
+    "annotation_dims": [
+      512,
+      514
+    ],
+    "actual_dims": [
+      514,
+      512
+    ]
+  },
+  {
+    "image_id": 400,
+    "filename": "2bf4aa0195.png",
+    "annotation_dims": [
+      512,
+      684
+    ],
+    "actual_dims": [
+      684,
+      512
+    ]
+  },
+  {
+    "image_id": 401,
+    "filename": "15a3ba1c51.png",
+    "annotation_dims": [
+      512,
+      741
+    ],
+    "actual_dims": [
+      741,
+      512
+    ]
+  },
+  {
+    "image_id": 402,
+    "filename": "06f605c0b1.png",
+    "annotation_dims": [
+      512,
+      737
+    ],
+    "actual_dims": [
+      737,
+      512
+    ]
+  },
+  {
+    "image_id": 404,
+    "filename": "8b7ce99d43.png",
+    "annotation_dims": [
+      512,
+      697
+    ],
+    "actual_dims": [
+      697,
+      512
+    ]
+  },
+  {
+    "image_id": 405,
+    "filename": "1b3c6536a3.png",
+    "annotation_dims": [
+      512,
+      649
+    ],
+    "actual_dims": [
+      649,
+      512
+    ]
+  },
+  {
+    "image_id": 406,
+    "filename": "3f97a9e821.png",
+    "annotation_dims": [
+      512,
+      522
+    ],
+    "actual_dims": [
+      522,
+      512
+    ]
+  },
+  {
+    "image_id": 407,
+    "filename": "2b9ccd5679.png",
+    "annotation_dims": [
+      512,
+      693
+    ],
+    "actual_dims": [
+      693,
+      512
+    ]
+  },
+  {
+    "image_id": 408,
+    "filename": "8f9db31734.png",
+    "annotation_dims": [
+      512,
+      596
+    ],
+    "actual_dims": [
+      596,
+      512
+    ]
+  },
+  {
+    "image_id": 409,
+    "filename": "f73d0ac26a.png",
+    "annotation_dims": [
+      512,
+      627
+    ],
+    "actual_dims": [
+      627,
+      512
+    ]
+  },
+  {
+    "image_id": 410,
+    "filename": "8b40ed2a82.png",
+    "annotation_dims": [
+      512,
+      640
+    ],
+    "actual_dims": [
+      640,
+      512
+    ]
+  },
+  {
+    "image_id": 411,
+    "filename": "2d6f268052.png",
+    "annotation_dims": [
+      512,
+      545
+    ],
+    "actual_dims": [
+      545,
+      512
+    ]
+  },
+  {
+    "image_id": 412,
+    "filename": "e49ed62b0b.png",
+    "annotation_dims": [
+      512,
+      592
+    ],
+    "actual_dims": [
+      592,
+      512
+    ]
+  },
+  {
+    "image_id": 413,
+    "filename": "7f50b86c4b.png",
+    "annotation_dims": [
+      512,
+      517
+    ],
+    "actual_dims": [
+      517,
+      512
+    ]
+  },
+  {
+    "image_id": 414,
+    "filename": "e853d120fa.png",
+    "annotation_dims": [
+      528,
+      512
+    ],
+    "actual_dims": [
+      512,
+      528
+    ]
+  },
+  {
+    "image_id": 415,
+    "filename": "f77a745ba2.png",
+    "annotation_dims": [
+      512,
+      691
+    ],
+    "actual_dims": [
+      691,
+      512
+    ]
+  },
+  {
+    "image_id": 416,
+    "filename": "d4b73860c3.png",
+    "annotation_dims": [
+      512,
+      690
+    ],
+    "actual_dims": [
+      690,
+      512
+    ]
+  },
+  {
+    "image_id": 417,
+    "filename": "a9a628444d.png",
+    "annotation_dims": [
+      512,
+      765
+    ],
+    "actual_dims": [
+      765,
+      512
+    ]
+  },
+  {
+    "image_id": 418,
+    "filename": "e83de4878a.png",
+    "annotation_dims": [
+      512,
+      741
+    ],
+    "actual_dims": [
+      741,
+      512
+    ]
+  },
+  {
+    "image_id": 419,
+    "filename": "9fac661e24.png",
+    "annotation_dims": [
+      512,
+      514
+    ],
+    "actual_dims": [
+      514,
+      512
+    ]
+  },
+  {
+    "image_id": 420,
+    "filename": "55511ff512.png",
+    "annotation_dims": [
+      512,
+      642
+    ],
+    "actual_dims": [
+      642,
+      512
+    ]
+  },
+  {
+    "image_id": 421,
+    "filename": "78847f96ee.png",
+    "annotation_dims": [
+      512,
+      690
+    ],
+    "actual_dims": [
+      690,
+      512
+    ]
+  },
+  {
+    "image_id": 422,
+    "filename": "40afb05b44.png",
+    "annotation_dims": [
+      512,
+      684
+    ],
+    "actual_dims": [
+      684,
+      512
+    ]
+  },
+  {
+    "image_id": 423,
+    "filename": "1e0f5d817e.png",
+    "annotation_dims": [
+      512,
+      547
+    ],
+    "actual_dims": [
+      547,
+      512
+    ]
+  },
+  {
+    "image_id": 424,
+    "filename": "7ea28e7e54.png",
+    "annotation_dims": [
+      512,
+      776
+    ],
+    "actual_dims": [
+      776,
+      512
+    ]
+  },
+  {
+    "image_id": 425,
+    "filename": "7e0c56c44b.png",
+    "annotation_dims": [
+      512,
+      744
+    ],
+    "actual_dims": [
+      744,
+      512
+    ]
+  },
+  {
+    "image_id": 427,
+    "filename": "e7187b91bf.png",
+    "annotation_dims": [
+      513,
+      512
+    ],
+    "actual_dims": [
+      512,
+      513
+    ]
+  },
+  {
+    "image_id": 429,
+    "filename": "d3971746e0.png",
+    "annotation_dims": [
+      512,
+      629
+    ],
+    "actual_dims": [
+      629,
+      512
+    ]
+  },
+  {
+    "image_id": 431,
+    "filename": "3027f9ffe7.png",
+    "annotation_dims": [
+      512,
+      687
+    ],
+    "actual_dims": [
+      687,
+      512
+    ]
+  },
+  {
+    "image_id": 432,
+    "filename": "f0522acde8.png",
+    "annotation_dims": [
+      512,
+      679
+    ],
+    "actual_dims": [
+      679,
+      512
+    ]
+  },
+  {
+    "image_id": 433,
+    "filename": "6e16b7dcb7.png",
+    "annotation_dims": [
+      512,
+      513
+    ],
+    "actual_dims": [
+      513,
+      512
+    ]
+  }
+]
