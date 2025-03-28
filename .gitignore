@@ -8,3 +8,6 @@
 
 mask_rcnn/logs/*
 mask_rcnn/models/checkpoints/*
+__pycache__/
+*.py[cod]
+/mask_rcnn/__pycache__

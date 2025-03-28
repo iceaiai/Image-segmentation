@@ -1088,15 +1088,27 @@ def compute_segmentation_metrics(predictions, targets, iou_threshold=0.5):
     matches = match_predictions_to_targets(predictions, targets, iou_threshold)
     
     # Compute mask IoU for matched pairs
+
     mask_ious = []
     for match in matches:
         img_idx, pred_idx, target_idx, _ = match
         pred = predictions[img_idx]
         target = targets[img_idx]
+
+        # print('pred mask size: ', pred['masks'][pred_idx].shape)
+        # print('target mask size: ', target['masks'][target_idx].shape)
         
-        pred_mask = pred['masks'][pred_idx]
+        # resize the predicted mask to the size of the target mask
+        mask_small = pred['masks'][pred_idx]
+        mask_small = mask_small.squeeze().cpu().numpy()
+        bbox = pred['boxes'][pred_idx]
+        x1, y1, x2, y2 = bbox
+        mask = np.zeros((512, 512))
+        mask_resized = cv2.resize(mask_small, (int(x2)-int(x1), int(y2)-int(y1)),interpolation=cv2.INTER_LINEAR)
+        mask[int(y1):int(y2), int(x1):int(x2)] = mask_resized
+        
         target_mask = target['masks'][target_idx]
-        mask_iou = compute_mask_iou(pred_mask, target_mask)
+        mask_iou = compute_mask_iou(mask, target_mask)
         mask_ious.append(mask_iou)
     
     # Compute average mask IoU
@@ -1281,11 +1293,12 @@ def visualize_prediction(image, prediction, target=None, score_threshold=0.5, im
             
             # Draw mask if available
             if masks is not None:
-                mask = masks[i].squeeze()
-                
-                # Resize mask to image size if needed
-                if mask.shape[0] != vis_image.shape[0] or mask.shape[1] != vis_image.shape[1]:
-                    mask = cv2.resize(mask, (vis_image.shape[1], vis_image.shape[0]))
+                mask_small = masks[i].squeeze()
+
+                # resize mask to the size of the bounding box
+                mask = np.zeros((512, 512))
+                mask_resized = cv2.resize(mask_small, (int(x2)-int(x1), int(y2)-int(y1)),interpolation=cv2.INTER_LINEAR)
+                mask[int(y1):int(y2), int(x1):int(x2)] = mask_resized
                 
                 # Process mask if it has valid dimensions
                 if mask.shape[0] > 0 and mask.shape[1] > 0:

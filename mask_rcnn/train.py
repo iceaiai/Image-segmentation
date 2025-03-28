@@ -17,6 +17,7 @@ import torchvision
 from torchvision.models.detection.generalized_rcnn import GeneralizedRCNN
 from torchvision.ops import box_iou
 import cv2
+import gc  # Add garbage collector import
 
 # Import local modules
 from config import TrainingConfig
@@ -325,11 +326,9 @@ def train_model(config):
             if isinstance(loss_dict, dict):
                 losses = sum(loss for loss in loss_dict.values())
             elif isinstance(loss_dict, list):
-                # Handle list of dictionaries
                 total_loss = 0.0
                 for item in loss_dict:
                     if isinstance(item, dict):
-                        # Extract loss values individually
                         for key, value in item.items():
                             if isinstance(value, torch.Tensor) and value.numel() == 1:
                                 total_loss += value.item()
@@ -339,7 +338,7 @@ def train_model(config):
                         total_loss += item.item()
                 losses = torch.tensor(total_loss, device=config.DEVICE, requires_grad=True)
             else:
-                losses = loss_dict  # In case it's already a tensor
+                losses = loss_dict
             
             # Backward pass and optimize
             losses.backward()
@@ -348,6 +347,10 @@ def train_model(config):
             # Update progress bar
             train_loss += losses.item() if isinstance(losses, torch.Tensor) else losses
             train_progress.set_postfix({"Loss": losses.item() if isinstance(losses, torch.Tensor) else losses})
+            
+            # Clear memory
+            del images, targets, loss_dict, losses
+            torch.cuda.empty_cache()
         
         avg_train_loss = train_loss / len(train_loader)
         print(f"Training Loss: {avg_train_loss:.4f}")
@@ -411,6 +414,10 @@ def train_model(config):
                         max_images=config.VISUALIZE_VAL_IMAGES,
                         image_ids=batch_image_ids
                     )
+                
+                # Clear memory
+                del images, targets, predictions, batch_metrics
+                torch.cuda.empty_cache()
         
         # Calculate averages
         avg_val_loss = val_loss / len(val_loader)
@@ -429,6 +436,10 @@ def train_model(config):
             checkpoint_path = os.path.join(checkpoint_dir, f"mask_rcnn_epoch_{epoch+1}.pth")
             utils.save_checkpoint(model, optimizer, epoch, checkpoint_path)
             print(f"Saved best model with validation loss: {best_val_loss:.4f}")
+        
+        # Force garbage collection at the end of each epoch
+        gc.collect()
+        torch.cuda.empty_cache()
     
     print("Training complete!")
     writer.close()
